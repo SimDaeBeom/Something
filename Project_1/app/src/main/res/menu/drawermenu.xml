@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/understand" android:title="장루 이해">
+    </item>
+    <item android:id="@+id/care" android:title="장루 관리"/>
+    <item android:id="@+id/meal" android:title="식이 관리"/>
+    <item android:id="@+id/calendar" android:title="일정 관리"/>
+    <item android:id="@+id/information" android:title="관련 정보"/>
+
+</menu>
